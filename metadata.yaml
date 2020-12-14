@@ -1,11 +1,16 @@
 _repo: Is-That-You-Xeluchli_64031
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64031-h/images/cover.jpg
 creator:
   author:
     agent_name: Hetschel, Dick
     gutenberg_agent_id: '50141'
     url: http://www.gutenberg.org/2009/agents/50141
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64031#Is-That-You-Xeluchli
 gutenberg_issued: '2020-12-12'
 gutenberg_type: Text
 identifiers:
